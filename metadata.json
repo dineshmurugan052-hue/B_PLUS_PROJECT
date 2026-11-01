@@ -1,0 +1,6 @@
+{
+  "name": "B+ Coffee Shop - Keelkattalai",
+  "description": "Zomato-inspired food delivery web application for B+ Coffee Shop in Keelkattalai, Chennai. Includes live cart, UPI QR payments, WhatsApp order dispatch, and complete Python Streamlit app.py script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
